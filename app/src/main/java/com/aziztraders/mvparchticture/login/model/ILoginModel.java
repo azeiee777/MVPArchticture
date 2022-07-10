@@ -5,5 +5,5 @@ public interface ILoginModel {
 
     String getEmail();
 
-    boolean isValidData();
+    String loginResult();
 }
